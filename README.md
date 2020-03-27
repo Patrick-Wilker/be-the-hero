@@ -1,6 +1,8 @@
-<h1 text-align: center, color: #D72D42;,>Be de hero</h1>
+<h1>Be de hero</h1>
 
-<h2 color: #677BC4>Tecnologias</h2>
+![be the hero](https://user-images.githubusercontent.com/38691922/77789226-651ff600-7041-11ea-82c9-49b12e73baeb.png?)
+
+<h2>Tecnologias</h2>
 
 * Node.js
 * React
