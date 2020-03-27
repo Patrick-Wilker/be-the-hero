@@ -1,16 +1,6 @@
-<style>
-    h1 {
-        text-align: center;
-        color: #D72D42;
-    }
-    h2{
-      color: #677BC4;
-    }
-</style>
+<h1 text-align: center, color: #D72D42;,>Be de hero</h1>
 
-<h1 >Be de hero</h1>
-
-<h2>Tecnologias</h2>
+<h2 color: #677BC4>Tecnologias</h2>
 
 * Node.js
 * React
