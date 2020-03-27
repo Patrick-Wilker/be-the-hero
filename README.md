@@ -1,4 +1,4 @@
-<h1 >Be The hero</h1>
+<h1 align="center"><strong>Be The Hero</strong></h1>
 
 ![be the hero](https://user-images.githubusercontent.com/38691922/77789226-651ff600-7041-11ea-82c9-49b12e73baeb.png?)
 
